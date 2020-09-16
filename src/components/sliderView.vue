@@ -116,7 +116,7 @@ h3 {
 }
 main {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
 }
 ul {

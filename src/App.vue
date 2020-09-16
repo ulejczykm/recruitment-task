@@ -23,6 +23,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  height: 100%;
 }
   html {
     font-family: var(--font);
@@ -33,6 +34,10 @@ export default {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
+    height: 100%;
+  }
+  body {
+    height: 100%;
   }
 
   *,
